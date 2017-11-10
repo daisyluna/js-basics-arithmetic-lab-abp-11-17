@@ -17,4 +17,4 @@ let randomNumber = Math.floor(Math.random() * 20) + 1;
 
 let randomInteger = Math.floor(randomNumber);
 
-let randomUserID += oldID = randomInteger;
+let randomUserID + Math.floor(randomNumber) = oldID;
